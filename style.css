@@ -57,6 +57,10 @@ h1{
     gap: 2rem;
     margin-bottom: 1rem;
 }
+.question:hover{
+    color:rgb(231, 9, 231);
+    cursor: pointer;
+}
 button{
     background-image: url('./assets/images/icon-plus.svg');
     background-color: transparent;
